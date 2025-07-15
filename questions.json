@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the capital of Pakistan?",
+    "options": ["Lahore", "Karachi", "Islamabad", "Peshawar"],
+    "answer": "Islamabad"
+  },
+  {
+    "question": "Which language runs in a web browser?",
+    "options": ["Java", "C", "Python", "JavaScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets", "Computer Style Sheets"],
+    "answer": "Cascading Style Sheets"
+  }
+]
