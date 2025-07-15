@@ -15,16 +15,6 @@ A simple JavaScript Quiz App with JSON questions
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Click here to try it out!](https://yourusername.github.io/quiz-app/)
-
----
-
-## 📸 Screenshot
-
-![Quiz Screenshot](https://via.placeholder.com/800x400.png?text=Quiz+App+Preview)
-
 ---
 
 ## ✨ Features
@@ -48,13 +38,6 @@ A simple JavaScript Quiz App with JSON questions
 | JSON     | Data for questions   |
 
 ---
-
-## 📂 Folder Structure
-quiz-app/
-├── index.html # Main HTML page
-├── style.css # CSS styles
-├── script.js # JavaScript logic
-└── questions.json # Quiz questions
 
 ## 🧠 How to Run
 
